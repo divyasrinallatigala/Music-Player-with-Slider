@@ -161,5 +161,5 @@ If you encounter any issues or have questions, please:
 - [ ] Local storage for liked songs
 
 ---
-
+**View my player here**👉[Music Player with Slider](https://divyasrinallatigala.github.io/Music-Player-with-Slider/)
 **Enjoy your music! 🎵**
